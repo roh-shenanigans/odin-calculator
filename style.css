@@ -28,12 +28,6 @@ body {
     margin: 2px;
 }
 
-/* div {
-    border: 1px solid;
-    border-color: black;
-    margin: 2px;
-} */
-
 #calculator {
     padding: 1px;
     align-self: center;
@@ -48,7 +42,6 @@ body {
 .row {
     flex: 1;
 }
-
 
 .display {
     width: 300px;
